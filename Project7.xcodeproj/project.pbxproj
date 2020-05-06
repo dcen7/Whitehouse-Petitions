@@ -15,6 +15,7 @@
 		FB543E862461D0DD00AF7ECA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB543E842461D0DD00AF7ECA /* LaunchScreen.storyboard */; };
 		FB543E8E24622D2700AF7ECA /* Petition.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB543E8D24622D2700AF7ECA /* Petition.swift */; };
 		FB543E9024622D6C00AF7ECA /* Petitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB543E8F24622D6C00AF7ECA /* Petitions.swift */; };
+		FB543E922462E03900AF7ECA /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB543E912462E03900AF7ECA /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		FB543E872461D0DD00AF7ECA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FB543E8D24622D2700AF7ECA /* Petition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Petition.swift; sourceTree = "<group>"; };
 		FB543E8F24622D6C00AF7ECA /* Petitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Petitions.swift; sourceTree = "<group>"; };
+		FB543E912462E03900AF7ECA /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				FB543E792461D0D800AF7ECA /* AppDelegate.swift */,
 				FB543E7B2461D0D800AF7ECA /* SceneDelegate.swift */,
 				FB543E7D2461D0D800AF7ECA /* ViewController.swift */,
+				FB543E912462E03900AF7ECA /* DetailViewController.swift */,
 				FB543E8D24622D2700AF7ECA /* Petition.swift */,
 				FB543E8F24622D6C00AF7ECA /* Petitions.swift */,
 				FB543E7F2461D0D800AF7ECA /* Main.storyboard */,
@@ -147,6 +150,7 @@
 				FB543E7E2461D0D800AF7ECA /* ViewController.swift in Sources */,
 				FB543E8E24622D2700AF7ECA /* Petition.swift in Sources */,
 				FB543E7A2461D0D800AF7ECA /* AppDelegate.swift in Sources */,
+				FB543E922462E03900AF7ECA /* DetailViewController.swift in Sources */,
 				FB543E7C2461D0D800AF7ECA /* SceneDelegate.swift in Sources */,
 				FB543E9024622D6C00AF7ECA /* Petitions.swift in Sources */,
 			);
